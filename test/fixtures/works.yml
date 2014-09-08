@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  rname: MyString
+  stops: 1
+  pstops: 1
+  date: 2014-09-08 02:54:26
+
+two:
+  user_id: 
+  rname: MyString
+  stops: 1
+  pstops: 1
+  date: 2014-09-08 02:54:26
